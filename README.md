@@ -1,5 +1,5 @@
 # planets
-- Planets - a recreation of game a Suika!
+- Planets - a recreation of game a `Suika!`
 - play on itch! https://zhan.itch.io/planets
 
 
